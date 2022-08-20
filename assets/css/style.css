@@ -1,3 +1,15 @@
-body{
-    background-color: crimson;
+.vgomez
+{
+border-radius: 20px;
+width: 800px;
+background-color:#bbfff1de;
+color: #2d98b3;
+border: 6px outset yellow;
+margin: 20px auto;
+background-image: url(../img/fondo-div.jpg);
+width: 500px;
+color: rgb(238, 243, 237);
+font-size: large;
+padding: 25px;
+
 }
