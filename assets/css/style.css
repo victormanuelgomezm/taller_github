@@ -3,11 +3,15 @@
     border-width: 8px;
     border-color:rgb(26, 19, 129);
     text-align: center;
-    margin: 100px 400px 100px 400px;
+    margin: 100px auto 100px auto;
     border-radius: 15px;
     padding-bottom: 50px;
     background-image: url(../img/fondo.jpg);
-
+    width: 500px;
+    height: 500px;
+    color: rgb(129, 255, 10);
+    font-size: x-large;
+    text-decoration: underline;
  }
  .mago {
     border-radius: 100px;
@@ -21,12 +25,6 @@
     font-weight: bold;
 
  }
- .carlosb p{
-    color: rgb(129, 255, 10);
-    font-size:xx-large;
-    text-decoration: underline;
-
-}
 .btn-carlosb {
     background-color: blue;
     padding: 10px;
@@ -45,7 +43,7 @@ width: 800px;
 background-color:#bbfff1de;
 color: #2d98b3;
 border: 6px outset yellow;
-margin: 100px 400px 100px 400px;
+margin: 100px auto 10px auto;
 background-image: url(../img/fondo-div.jpg);
 width: 500px;
 color: rgb(238, 243, 237);
@@ -53,7 +51,7 @@ font-size: large;
 padding: 25px;
 }
 .scifuentes{
-    margin: 100px 400px 100px 400px;
+    margin: 10px auto 100px auto;
     width: 300px;
     border: 4px none black;
     border-radius: 10px;
