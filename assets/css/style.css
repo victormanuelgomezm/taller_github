@@ -3,7 +3,7 @@
     border-width: 8px;
     border-color:rgb(26, 19, 129);
     text-align: center;
-    margin: 100px 400px;
+    margin: 100px 400px 100px 400px;
     border-radius: 15px;
     padding-bottom: 50px;
     background-image: url(../img/fondo.jpg);
@@ -45,7 +45,7 @@ width: 800px;
 background-color:#bbfff1de;
 color: #2d98b3;
 border: 6px outset yellow;
-margin: 20px auto;
+margin: 100px 400px 100px 400px;
 background-image: url(../img/fondo-div.jpg);
 width: 500px;
 color: rgb(238, 243, 237);
@@ -53,7 +53,7 @@ font-size: large;
 padding: 25px;
 }
 .scifuentes{
-    margin: 100px auto;
+    margin: 100px 400px 100px 400px;
     width: 300px;
     border: 4px none black;
     border-radius: 10px;
