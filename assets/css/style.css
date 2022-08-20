@@ -1,3 +1,15 @@
-body{
-    background-color: crimson;
+.scifuentes{
+    margin: 100px auto;
+    width: 300px;
+    border: 4px none black;
+    border-radius: 10px;
+    text-align: center;
+    font-style: italic;
+    padding: 20px;
+    background-image: url(../img/manos.webp);
+    color: white;
+    font-size: large;
+}
+.personaje{
+    border-radius: 20px;
 }
