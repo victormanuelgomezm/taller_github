@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 .carlosb{
     border-style:double;
     border-width: 8px;
@@ -40,10 +38,6 @@
 .btn-carlosb:hover{
    background-color: blueviolet;
 }
-
- 
-
-=======
 .vgomez
 {
 border-radius: 20px;
@@ -57,29 +51,7 @@ width: 500px;
 color: rgb(238, 243, 237);
 font-size: large;
 padding: 25px;
-
 }
->>>>>>> 6b0460f5ea0d31c63ce9b1dcbb43ad5a37087504
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .scifuentes{
     margin: 100px auto;
     width: 300px;
@@ -95,4 +67,3 @@ padding: 25px;
 .personaje{
     border-radius: 20px;
 }
->>>>>>> 0bc679ab62e1ed9b5d93f7cbb72b5aacfea5baaf
