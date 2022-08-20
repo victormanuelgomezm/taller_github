@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .carlosb{
     border-style:double;
     border-width: 8px;
@@ -15,7 +15,7 @@
     border-color: blue;
     border: 6px inset rgb(12, 9, 180) ;
 
- }
+   }
  .carlosb h1{
     color:rgb(11, 245, 194);
     text-decoration: underline;
@@ -42,7 +42,7 @@
 
  
 
-=======
+
 .vgomez
 {
 border-radius: 20px;
@@ -58,4 +58,4 @@ font-size: large;
 padding: 25px;
 
 }
->>>>>>> 6b0460f5ea0d31c63ce9b1dcbb43ad5a37087504
+
